@@ -112,4 +112,4 @@ To create the project structure, run the following script:
 
 ```shell
 node createProjectStructure.js
-Copy code
+
