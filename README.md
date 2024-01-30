@@ -106,7 +106,10 @@ Before you begin, ensure you have met the following requirements:
 
 ### Installation Steps
 
-1. Clone the repository:
-
 ```bash
-git clone https://github.com/your-username/deso-ipfs.git
+# Set up the project structure
+To create the project structure, run the following script:
+
+```shell
+node createProjectStructure.js
+Copy code
