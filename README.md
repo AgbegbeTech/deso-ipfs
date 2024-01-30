@@ -111,7 +111,7 @@ Before you begin, ensure you have met the following requirements:
 ```bash
 git clone https://github.com/your-username/deso-ipfs-integration.git
 Install the required dependencies:
-bash
+```bash
 
 cd deso-ipfs-integration
 npm install
@@ -121,7 +121,7 @@ Copy code
 DESO_NODE_URL=https://your-deso-node-url
 IPFS_API_URL=https://your-ipfs-api-url
 Start the server:
-bash
+```bash
 npm start
 Usage
 [Explain how to use your project or provide examples here.]
@@ -135,9 +135,4 @@ Commit your changes: git commit -m 'Add some feature'.
 Push to the branch: git push origin feature/your-feature-name.
 Create a pull request.
 License
-This project is licensed under the [License Name] - see the LICENSE.md file for details.
-
-javascript
-Copy code
-
-In the above README, replace the placeholders `[![Build Status](your-ci-badge-url)](your-ci-build-link)`, `your-ci-badge-url`, `your-ci-build-link`, and `[License Name]` with your actual CI/CD information and license details.
+This project is licensed under the MIT License - see the LICENSE.md file for details.
