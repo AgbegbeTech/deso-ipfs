@@ -90,6 +90,23 @@ The ability to efficiently handle large files opens up new possibilities for con
 
 By providing a reliable and efficient platform for decentralized social interactions, this integration empowers the community, fostering a sense of ownership and control over their digital presence.
 
+## Getting Started
 
+To get started with this project, follow the instructions below.
 
+## Installation
 
+### Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+- [Node.js](https://nodejs.org/) installed on your local machine.
+- Access to a DeSo node.
+- Access to an IPFS node.
+
+### Installation Steps
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/deso-ipfs-integration.git
