@@ -90,49 +90,6 @@ The ability to efficiently handle large files opens up new possibilities for con
 
 By providing a reliable and efficient platform for decentralized social interactions, this integration empowers the community, fostering a sense of ownership and control over their digital presence.
 
-## Getting Started
 
-To get started with this project, follow the instructions below.
 
-## Installation
 
-### Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-
-- [Node.js](https://nodejs.org/) installed on your local machine.
-- Access to a DeSo node.
-- Access to an IPFS node.
-
-### Installation Steps
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/deso-ipfs-integration.git
-Install the required dependencies:
-```bash
-
-cd deso-ipfs-integration
-npm install
-Configure your DeSo and IPFS endpoints in the .env file:
-env
-Copy code
-DESO_NODE_URL=https://your-deso-node-url
-IPFS_API_URL=https://your-ipfs-api-url
-Start the server:
-```bash
-npm start
-Usage
-[Explain how to use your project or provide examples here.]
-
-Contributing
-We welcome contributions from the community. If you'd like to contribute to this project, please follow these guidelines:
-
-Fork the repository.
-Create a new branch with a descriptive name: git checkout -b feature/your-feature-name.
-Commit your changes: git commit -m 'Add some feature'.
-Push to the branch: git push origin feature/your-feature-name.
-Create a pull request.
-License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
