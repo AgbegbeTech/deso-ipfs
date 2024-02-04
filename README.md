@@ -2,7 +2,7 @@
 
 [![Build Status](your-ci-badge-url)](your-ci-build-link)
 
-**Meta Description:** Explore the fusion of DeSo (Decentralized Social Blockchain) and IPFS (InterPlanetary File System) in a comprehensive backend API, providing enhanced user control, data integrity, economic opportunities, global reach, and community governance in the realm of decentralized social media.
+ Explore the fusion of DeSo (Decentralized Social Blockchain) and IPFS (InterPlanetary File System) in a comprehensive backend API, providing enhanced user control, data integrity, economic opportunities, global reach, and community governance in the realm of decentralized social media.
 
 ## Table of Contents
 
