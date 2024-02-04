@@ -106,10 +106,22 @@ Before you begin, ensure you have met the following requirements:
 
 ### Installation Steps
 
-```bash
-# Set up the project structure
-To create the project structure, run the following script:
+### 1.Open a Terminal or Command Prompt:
 
-```shell
+On Windows, you can open Command Prompt by pressing Win + R, typing cmd, and pressing Enter.
+On macOS, you can open Terminal from the Applications folder or by searching for it in Spotlight.
+On Linux, you can open the Terminal from your system's applications or using keyboard shortcuts like Ctrl + Alt + T.
+Navigate to the Script's Directory:
+
+#### 2. Use the cd command to navigate to the directory where your JavaScript file (createProjectStructure.js) is located. For example:
+
+cd /path/to/your/project/directory
+
+Replace /path/to/your/project/directory with the actual path to the directory containing your script.
+
+### 3. Run the Script:
+
+Once you are inside the directory where your script is located, run the script using Node.js. Use the following command:
+
 node createProjectStructure.js
 
