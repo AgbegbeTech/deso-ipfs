@@ -114,7 +114,7 @@ On Linux, you can open the Terminal from your system's applications or using key
 Navigate to the Script's Directory:
 
 #### 2. Use the cd command to navigate to the directory where your JavaScript file (createProjectStructure.js) is located. For example:
-''''bash
+
 cd /path/to/your/project/directory
 
 Replace /path/to/your/project/directory with the actual path to the directory containing your script.
